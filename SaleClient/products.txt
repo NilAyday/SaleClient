@@ -1,0 +1,18 @@
+Urun sayisi: 2
+Urun Adi: simit
+Urun Fiyati: 1.00
+Urun KDVsi: 8.00
+Urun Barkodu: 3323
+-------
+Urun sayisi: 1
+Urun Adi: kola
+Urun Fiyati: 3.00
+Urun KDVsi: 5.00
+Urun Barkodu: 4343
+-------
+Urun sayisi: 2
+Urun Adi: kıymalı börek
+Urun Fiyati: 10.00
+Urun KDVsi: 7.00
+Urun Barkodu: 3232
+-------
