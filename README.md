@@ -1,10 +1,4 @@
 # SaleClient
 
+A sale app which takes input in Java and through JNI sends data to C++. C++ code sends data through Server-Client a GUI in Qt.
 
-tcp server bir ürün aldıktan sonra kapanıyor
-
-[SOLVED]birden fazla kelimeden oluşan ürünlerde kelimeler diğer sütunlara kayıyor
-
-[SOLVED]cpp gui sadece bir ürün gösteriyor
-
-tcp server bazen sona bir harf ekliyor
